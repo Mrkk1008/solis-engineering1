@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="hex" x="0" y="0" width="30" height="51.96" patternUnits="userSpaceOnUse">
+      <path d="M15,0 L30,8.66 L30,25.98 L15,34.64 L0,25.98 L0,8.66 Z" 
+            fill="none" 
+            stroke="currentColor" 
+            stroke-width="0.5"
+            opacity="0.15"/>
+      <path d="M15,17.32 L30,25.98 L30,43.3 L15,51.96 L0,43.3 L0,25.98 Z" 
+            fill="none" 
+            stroke="currentColor" 
+            stroke-width="0.5"
+            opacity="0.15"/>
+    </pattern>
+  </defs>
+  <rect width="100" height="100" fill="url(#hex)" />
+</svg> 
